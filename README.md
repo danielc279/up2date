@@ -1,2 +1,2 @@
-# up2date
+# up2date app
 School Assignment
